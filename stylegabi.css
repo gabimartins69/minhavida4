@@ -1,0 +1,47 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-size: lem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+     background-color: rgb(178, 161, 253);
+     display: flex;
+     justify-content: space-between;
+}
+
+div {
+    color: rgb(188, 145, 238);
+}
+
+div2 {
+    color: black;
+}
+
+div5 {
+    color: crimson;
+}
+
+div8 {
+    color: cornflowerblue;
+}
+
+div10 {
+    color: rgb(223, 81, 147);
+}
+
+.menu {
+     
+}
+
+.menu a {
+    list-style: none;
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu a:hover {
+    color: rgb(54, 15, 163);
+}
